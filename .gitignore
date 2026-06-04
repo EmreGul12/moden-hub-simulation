@@ -1,0 +1,26 @@
+# Python Önbellek Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortamlar (Bütün kütüphanelerin yüklendiği yer)
+venv/
+env/
+.env/
+.venv/
+env_sequence/
+
+# IDE ve Editör Ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim Sistemi Gizli Dosyaları
+.DS_Store
+Thumbs.db
+
+# Simülasyon Logları ve Çıktıları (İsteğe bağlı)
+*.log
+
+.python-version
